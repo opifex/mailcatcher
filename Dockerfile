@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:3.18.3
 # set maintainer
 MAINTAINER Mykyta Zinchenko <opifex.ua@gmail.com>
 # install dependencies

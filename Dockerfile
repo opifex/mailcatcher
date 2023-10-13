@@ -1,6 +1,6 @@
-FROM alpine:3.18.3
+FROM alpine:3.18.4
 # set maintainer
-MAINTAINER Mykyta Zinchenko <opifex.ua@gmail.com>
+MAINTAINER Mykyta Zinchenko
 # install dependencies
 RUN set -e \
     && apk add --update libstdc++ ruby-bigdecimal sqlite-libs \

@@ -2,7 +2,9 @@
 
 Simple SMTP server with web interface for software engineers.
 
-[![build](https://github.com/opifex/mailcatcher/actions/workflows/build.yml/badge.svg)](https://github.com/opifex/mailcatcher/actions/workflows/build.yml)
+![GitHub Actions Workflow Status](https://img.shields.io/github/actions/workflow/status/opifex/mailcatcher/build.yml)
+![GitHub License](https://img.shields.io/github/license/opifex/mailcatcher)
+![Docker Image Size](https://img.shields.io/docker/image-size/opifex/mailcatcher)
 
 ## Features
 

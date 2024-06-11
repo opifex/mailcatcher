@@ -1,4 +1,4 @@
-FROM alpine:3.18.4
+FROM alpine:3.18.6
 # set maintainer
 MAINTAINER Mykyta Zinchenko
 # install dependencies

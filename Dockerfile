@@ -1,6 +1,4 @@
-FROM alpine:3.18.6
-# set maintainer
-MAINTAINER Mykyta Zinchenko
+FROM alpine:3.24.1
 # install dependencies
 RUN set -e \
     && apk add --update libstdc++ ruby-bigdecimal sqlite-libs \
